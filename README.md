@@ -18,4 +18,4 @@ It should give output in your bash like this.
 
 * __TIP: Automate this script with cronjob so you don't have to manually run it everytime!__
 
-### Any other questions? Add me on discord, "the_real_astr4x"!
+### Any other questions? Add me on discord, "coolatlantis"!
